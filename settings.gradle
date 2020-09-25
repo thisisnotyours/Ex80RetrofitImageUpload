@@ -1,0 +1,2 @@
+rootProject.name='Ex80RetrofitImageUpload'
+include ':app'
